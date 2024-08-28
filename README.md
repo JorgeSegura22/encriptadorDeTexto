@@ -21,4 +21,4 @@ Este proyecto es un encriptador y desencriptador de texto desarrollado como part
 1. **Clonar el Repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/JorgeSegura22/encriptadorDeTexto.git
